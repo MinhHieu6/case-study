@@ -1,0 +1,47 @@
+1. Khẳng định nào sau đây dúng?
+A. trong python, một toán tử có thể có các hoạt động khác nhau tùy thuoộc vào toán hanạng duđược sử dụng
+B. bạn có thể thay đổi cách các toán tử hoạt động trong python
+C. _add()_ được gọi khi toán tử ' + ' được sử dụng
+D. Tất cả các đáp án trên dều đúng
+
+đáp án đúng: D
+
+2. Mở file với chế độ mode ' a ' có ý nghĩa gì?
+A. mở file ở chế độ chỉ được phép đọc
+B. mở file ở chế độ ghi
+C. mở file chế độ ghi tiếp vào cuối file 
+D. mở file để đọc và ghi
+
+đáp án đúng: C
+
+3. Khăng dịnh nào về ngoại ệ là đúng nhất?
+A. ngoại lệ(exception) là lõi phát sinh khi đang thực thi chương trình (runtime error)
+B. lỗi cú pháp (syntax error) cung là một ngoại lệ
+C. ngoại lệ được python dùng dể loại bỏ một khối code khỏi chương trình
+D. tất cà các đáp án trên đều đúng 
+
+đáp án đúng: A
+
+4. Điều gì sẽ xảy ra nếu bạn cố mở một filr không tồn tại?
+A. python tự động tạo một file dưới tên bạn gọi ra
+B. khoông có gì xảy ra vì file không tồn tại
+C. gây ra một ngoại lệ
+D. không có đáp án nào đúng
+
+đáp án đúng: C
+
+5. Đâu là kết quả của đoạn code dưới đây?
+	myList = [1, 5, 5, 5, 5, 1]
+	max = myList[0]
+	indexOfMax = 0
+	for i in range(1, len(myList)):
+		if myList[i] >max:
+		indexOfMax = i
+	print(indexOfMax)
+
+A. 0 
+B. 4
+C. 1
+D. 5
+
+đáp án đúng: C
